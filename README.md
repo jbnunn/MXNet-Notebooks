@@ -3,4 +3,4 @@ Jupyter notebooks for learning MXNet, based off tutorials at [http://mxnet.io/tu
 
 | Topic   | URL                                           |
 |---------|-----------------------------------------------|
-| NDArray | http://mxnet.io/tutorials/python/ndarray.html |
+| Basic Neural Networks | http://mxnet.io/tutorials/python/symbol.html |
