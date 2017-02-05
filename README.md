@@ -12,3 +12,4 @@ These are Jupyter notebooks to help you learn MXNet. I base them off of document
 | Topic   | URL                                           |
 |---------|-----------------------------------------------|
 | Basic Neural Networks | http://mxnet.io/tutorials/python/symbol.html |
+| Training a Neural Network | http://mxnet.io/tutorials/python/module.html |
